@@ -1,0 +1,7 @@
+{
+  "last_run": "2026-04-23T14:00:00Z",
+  "pipeline_version": "0.1.0",
+  "games_count": 659,
+  "operators_count": 65,
+  "source": "seeded from h2hggl.com snapshot; will be overwritten by exporter"
+}

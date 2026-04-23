@@ -1,0 +1,72 @@
+[
+  {
+    "operator": "PINNACLE",
+    "team": "Washington Commanders",
+    "games": 274,
+    "wins": 184,
+    "win_pct": 0.672
+  },
+  {
+    "operator": "KILLJOY",
+    "team": "Washington Commanders",
+    "games": 343,
+    "wins": 226,
+    "win_pct": 0.659
+  },
+  {
+    "operator": "FENRIR",
+    "team": "Minnesota Vikings",
+    "games": 145,
+    "wins": 102,
+    "win_pct": 0.703
+  },
+  {
+    "operator": "FENRIR",
+    "team": "San Francisco 49ers",
+    "games": 118,
+    "wins": 78,
+    "win_pct": 0.661
+  },
+  {
+    "operator": "FENRIR",
+    "team": "Washington Commanders",
+    "games": 113,
+    "wins": 65,
+    "win_pct": 0.575
+  },
+  {
+    "operator": "FUSE",
+    "team": "Baltimore Ravens",
+    "games": 220,
+    "wins": 148,
+    "win_pct": 0.673
+  },
+  {
+    "operator": "FUSE",
+    "team": "Kansas City Chiefs",
+    "games": 113,
+    "wins": 72,
+    "win_pct": 0.637
+  },
+  {
+    "operator": "MERCENARY",
+    "team": "Philadelphia Eagles",
+    "games": 198,
+    "wins": 124,
+    "win_pct": 0.626
+  },
+  {
+    "operator": "SHURIKEN",
+    "team": "Detroit Lions",
+    "games": 340,
+    "wins": 201,
+    "win_pct": 0.591
+  },
+  {
+    "operator": "CLASH",
+    "team": "Buffalo Bills",
+    "games": 150,
+    "wins": 92,
+    "win_pct": 0.613
+  }
+]

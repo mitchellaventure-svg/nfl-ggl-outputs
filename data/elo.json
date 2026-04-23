@@ -1,0 +1,570 @@
+[
+  {
+    "operator": "PINNACLE",
+    "elo": 1651.28,
+    "games": 274,
+    "wins": 184,
+    "losses": 90,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "MERCENARY",
+    "elo": 1616.38,
+    "games": 396,
+    "wins": 242,
+    "losses": 154,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "ASTRONAUT",
+    "elo": 1594.43,
+    "games": 296,
+    "wins": 165,
+    "losses": 131,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "FENRIR",
+    "elo": 1593.0,
+    "games": 376,
+    "wins": 245,
+    "losses": 130,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "FUSE",
+    "elo": 1586.79,
+    "games": 433,
+    "wins": 282,
+    "losses": 151,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "CLASH",
+    "elo": 1584.78,
+    "games": 294,
+    "wins": 170,
+    "losses": 124,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "KILLJOY",
+    "elo": 1571.0,
+    "games": 343,
+    "wins": 226,
+    "losses": 117,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "MAVERICK",
+    "elo": 1561.13,
+    "games": 326,
+    "wins": 172,
+    "losses": 153,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "LYNX",
+    "elo": 1556.77,
+    "games": 374,
+    "wins": 186,
+    "losses": 188,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "REGRET",
+    "elo": 1552.7,
+    "games": 444,
+    "wins": 230,
+    "losses": 214,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SCHOLAR",
+    "elo": 1547.14,
+    "games": 214,
+    "wins": 110,
+    "losses": 103,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "PHOENIX",
+    "elo": 1544.7,
+    "games": 264,
+    "wins": 134,
+    "losses": 128,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "NIGHTMARE",
+    "elo": 1541.99,
+    "games": 651,
+    "wins": 343,
+    "losses": 306,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "HURRICANE",
+    "elo": 1539.78,
+    "games": 445,
+    "wins": 230,
+    "losses": 215,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "HEADHUNTER",
+    "elo": 1539.53,
+    "games": 624,
+    "wins": 311,
+    "losses": 311,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "METEOR",
+    "elo": 1537.62,
+    "games": 260,
+    "wins": 130,
+    "losses": 130,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "MEMENTO",
+    "elo": 1536.86,
+    "games": 556,
+    "wins": 280,
+    "losses": 276,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "OCTANE",
+    "elo": 1532.96,
+    "games": 251,
+    "wins": 132,
+    "losses": 119,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "LEO",
+    "elo": 1532.64,
+    "games": 381,
+    "wins": 205,
+    "losses": 176,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "KEVLAR",
+    "elo": 1531.51,
+    "games": 272,
+    "wins": 150,
+    "losses": 122,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "OFFICER",
+    "elo": 1529.39,
+    "games": 350,
+    "wins": 186,
+    "losses": 163,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "OVERDRIVE",
+    "elo": 1522.61,
+    "games": 246,
+    "wins": 124,
+    "losses": 122,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "MINDFLAYER",
+    "elo": 1520.45,
+    "games": 576,
+    "wins": 291,
+    "losses": 284,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SHROUD",
+    "elo": 1511.05,
+    "games": 233,
+    "wins": 117,
+    "losses": 116,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "PURSUIT",
+    "elo": 1509.15,
+    "games": 203,
+    "wins": 109,
+    "losses": 94,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "VALIANT",
+    "elo": 1509.1,
+    "games": 209,
+    "wins": 103,
+    "losses": 106,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SABRE",
+    "elo": 1505.06,
+    "games": 243,
+    "wins": 121,
+    "losses": 122,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "NIRVANA",
+    "elo": 1504.4,
+    "games": 373,
+    "wins": 163,
+    "losses": 210,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "PATHFINDER",
+    "elo": 1504.06,
+    "games": 280,
+    "wins": 140,
+    "losses": 139,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "KATANA",
+    "elo": 1503.9,
+    "games": 126,
+    "wins": 63,
+    "losses": 63,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SPARK",
+    "elo": 1498.43,
+    "games": 563,
+    "wins": 316,
+    "losses": 245,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SHURIKEN",
+    "elo": 1495.86,
+    "games": 688,
+    "wins": 373,
+    "losses": 313,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "ENFORCER",
+    "elo": 1492.28,
+    "games": 481,
+    "wins": 225,
+    "losses": 256,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "PRECISION",
+    "elo": 1490.45,
+    "games": 458,
+    "wins": 245,
+    "losses": 213,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SPLINTER",
+    "elo": 1490.08,
+    "games": 110,
+    "wins": 56,
+    "losses": 54,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "LIZARD",
+    "elo": 1488.83,
+    "games": 420,
+    "wins": 213,
+    "losses": 207,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "ROCKET",
+    "elo": 1488.39,
+    "games": 427,
+    "wins": 216,
+    "losses": 211,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SENTRY",
+    "elo": 1487.99,
+    "games": 234,
+    "wins": 126,
+    "losses": 108,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "GADGET",
+    "elo": 1485.42,
+    "games": 617,
+    "wins": 310,
+    "losses": 305,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "UNICORN",
+    "elo": 1476.75,
+    "games": 181,
+    "wins": 88,
+    "losses": 93,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "HERMES",
+    "elo": 1475.18,
+    "games": 448,
+    "wins": 241,
+    "losses": 206,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "KRAKEN",
+    "elo": 1469.76,
+    "games": 333,
+    "wins": 147,
+    "losses": 186,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "RELIC",
+    "elo": 1469.41,
+    "games": 236,
+    "wins": 122,
+    "losses": 114,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "LAZARUS",
+    "elo": 1466.66,
+    "games": 586,
+    "wins": 301,
+    "losses": 285,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "JUDGEMENT",
+    "elo": 1461.85,
+    "games": 277,
+    "wins": 135,
+    "losses": 142,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "LEGEND",
+    "elo": 1459.61,
+    "games": 403,
+    "wins": 206,
+    "losses": 197,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "STRIDER",
+    "elo": 1458.49,
+    "games": 29,
+    "wins": 13,
+    "losses": 16,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "RICOCHET",
+    "elo": 1455.44,
+    "games": 262,
+    "wins": 112,
+    "losses": 150,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SORCERER",
+    "elo": 1454.54,
+    "games": 101,
+    "wins": 45,
+    "losses": 56,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "AVATAR",
+    "elo": 1451.93,
+    "games": 585,
+    "wins": 282,
+    "losses": 303,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SAGE",
+    "elo": 1451.83,
+    "games": 239,
+    "wins": 116,
+    "losses": 122,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "CRYSTAL",
+    "elo": 1449.36,
+    "games": 575,
+    "wins": 272,
+    "losses": 301,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "STEEL",
+    "elo": 1440.41,
+    "games": 223,
+    "wins": 104,
+    "losses": 119,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "TOMBSTONE",
+    "elo": 1439.5,
+    "games": 310,
+    "wins": 121,
+    "losses": 188,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "LUNA",
+    "elo": 1437.5,
+    "games": 433,
+    "wins": 213,
+    "losses": 220,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SUMMIT",
+    "elo": 1428.98,
+    "games": 247,
+    "wins": 109,
+    "losses": 138,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "GENIUS",
+    "elo": 1428.06,
+    "games": 206,
+    "wins": 90,
+    "losses": 116,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "EMBER",
+    "elo": 1424.92,
+    "games": 66,
+    "wins": 26,
+    "losses": 40,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "PSYCHIC",
+    "elo": 1404.48,
+    "games": 118,
+    "wins": 47,
+    "losses": 71,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SEEKER",
+    "elo": 1403.75,
+    "games": 171,
+    "wins": 66,
+    "losses": 105,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "IMPERIAL",
+    "elo": 1398.4,
+    "games": 101,
+    "wins": 39,
+    "losses": 61,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "PRISMATIC",
+    "elo": 1389.8,
+    "games": 175,
+    "wins": 61,
+    "losses": 114,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "AERO",
+    "elo": 1381.23,
+    "games": 184,
+    "wins": 58,
+    "losses": 126,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "ORIGINAL",
+    "elo": 1377.17,
+    "games": 227,
+    "wins": 77,
+    "losses": 149,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "ANVIL",
+    "elo": 1376.11,
+    "games": 164,
+    "wins": 54,
+    "losses": 110,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "SENTINEL",
+    "elo": 1356.61,
+    "games": 78,
+    "wins": 24,
+    "losses": 54,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "INVENTOR",
+    "elo": 1308.72,
+    "games": 141,
+    "wins": 39,
+    "losses": 99,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "NEON",
+    "elo": 1297.05,
+    "games": 144,
+    "wins": 40,
+    "losses": 103,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "MONSTER",
+    "elo": 1296.04,
+    "games": 162,
+    "wins": 42,
+    "losses": 120,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "MIMIC",
+    "elo": 1289.31,
+    "games": 29,
+    "wins": 7,
+    "losses": 22,
+    "last_updated": "2026-04-23T14:00:00Z"
+  },
+  {
+    "operator": "MARVEL",
+    "elo": 1271.98,
+    "games": 104,
+    "wins": 24,
+    "losses": 79,
+    "last_updated": "2026-04-23T14:00:00Z"
+  }
+]

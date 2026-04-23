@@ -3,5 +3,7 @@
   "pipeline_version": "0.1.0",
   "games_count": 659,
   "operators_count": 65,
-  "source": "seeded from h2hggl.com snapshot; will be overwritten by exporter"
+  "edges_count": 0,
+  "ev_threshold_pct": 3.0,
+  "status": "seeded \u2014 will be overwritten by exporter"
 }
